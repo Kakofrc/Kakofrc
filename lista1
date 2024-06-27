@@ -1,5 +1,5 @@
 #EXTM3U 
-#EXTINF: -1 tvg-chno="1" tvg-logo="https://cdn.m3u.cl/logo/790_La_Red.png" group-title="NACIONALES", LA ReD tV
+#EXTINF: -1 tvg-chno="1" tvg-logo="https://cdn.m3u.cl/logo/790_La_Red.png" group-title="NACIONALES", LA ReD tV hd
 https://unlimited1-cl-isp.dps.live/lared/lared.smil/playlist.m3u8?PlaylistM3UCL
 #EXTINF: -1 tvg-chno="2" tvg-logo="https://cdn.m3u.cl/logo/54_UCV.png" group-title="NACIONALES", UCV    EN VIVO
 https://unlimited2-cl-isp.dps.live/ucvtv2/ucvtv2.smil/playlist.m3u8?PlaylistM3UCL
@@ -157,7 +157,7 @@ http://38.41.8.1:8000/play/a017
 http://38.41.8.1:8000/play/a018
 #EXTINF: -1 group-title="CULTURA Y ENTRETENIMIENTO", NATGEO HD
 http://live1.cl.cdn.lla.vtrplay.com/natgeohdchi/vxfmt=dp/playlist.m3u8?device_profile=STB_HLS_VCAS_LIVE_HD
-#EXTINF: -1 tvg-name="Harry Potter y la piedra filosofal" tvg-logo="https://www.themoviedb.org/t/p/w1280/7xXJ15VEf7G9GdAuV1dO769yC73.jpg" group-title="Saga Harry Potter", Harry Potter y la piedra filosofal
+#EXTINF: -1 tvg-name="Harry Potter y la piedra filosofal" tvg-logo="https://www.themoviedb.org/t/p/w1280/7xXJ15VEf7G9GdAuV1dO769yC73.jpg" group-title=" peliculas Saga Harry Potter", Harry Potter y la piedra filosofal
 http://144.217.70.79/VODS-M/1080P/Harry%20Potter%20and%20the%20Sorcerers%20Stone%202001.mkv
 #EXTINF: -1 tvg-name="Harry Potter y la cámara secreta" tvg-logo="https://www.themoviedb.org/t/p/w1280/bhCfAzeMMg7GyLDT11yVM2i1NPh.jpg" group-title="Saga Harry Potter", Harry Potter y la cámara secreta
 http://144.217.70.79/VODS-M/1080P/Harry%20Potter%20And%20The%20Chamber%20Of%20Secrets%202002.mkv
