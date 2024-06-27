@@ -1,5 +1,5 @@
 #EXTM3U 
-#EXTINF: -1 tvg-chno="1" tvg-logo="https://cdn.m3u.cl/logo/790_La_Red.png" group-title="NACIONALES", LA ReD tV hd
+#EXTINF: -1 tvg-chno="1" tvg-logo="https://cdn.m3u.cl/logo/790_La_Red.png" group-title="NACIONALES", LA ReDtV hd
 https://unlimited1-cl-isp.dps.live/lared/lared.smil/playlist.m3u8?PlaylistM3UCL
 #EXTINF: -1 tvg-chno="2" tvg-logo="https://cdn.m3u.cl/logo/54_UCV.png" group-title="NACIONALES", UCV    EN VIVO
 https://unlimited2-cl-isp.dps.live/ucvtv2/ucvtv2.smil/playlist.m3u8?PlaylistM3UCL
