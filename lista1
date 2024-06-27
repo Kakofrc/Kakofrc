@@ -62,9 +62,21 @@ http://45.181.122.13:8000/play/090
 https://i.mjh.nz/SamsungTVPlus/ESBC2700009B4.m3u8
 #EXTINF: -1 tvg-id="TNT Sports HD" tvg-name="TNT Sports HD" tvg-logo="https://spotlight-cl.cdn.telefonica.com/customer/v1/source?image=http%3A%2F%2Fmedia.cdn.telefonica.com%2Fstoragearea0%2FIMAGES%2F00%2F18%2F56%2F18567794_A2C66547B8F06760.png&height=60&resize=RATIO&format=PNG" group-title="DEPORTES", TNT ● SPORTS PREM HD ARG⚽
 http://45.5.151.151:8000/play/a002/index.m3u8
-#EXTINF: -1 tvg-name=" tvg-logo=" group-title="CINE Y SERIES", A3SERIES HD
+#EXTINF: -1 tvg-id= tvg-logo="https://images.pluto.tv/channels/5dd837642c6e9300098ad484/colorLogoPNG.png"  group-title="CINE Y SERIES", Series Latinas
+https://r.mjh.nz/PlutoTV/5dd837642c6e9300098ad484-alt.m3u8
+#EXTINF: -1 tvg-id= tvg-logo="https://images.pluto.tv/channels/5de802659167b10009e7deba/colorLogoPNG.png"  group-title="CINE Y SERIES",  Series Retro
+https://r.mjh.nz/PlutoTV/5de802659167b10009e7deba-alt.m3u8
+#EXTINF: -1 tvg-id= tvg-logo="https://images.pluto.tv/channels/63eb95baa99571000898a078/colorLogoPNG.png" group-title="CINE Y SERIES",  MacGyver
+https://r.mjh.nz/PlutoTV/63eb95baa99571000898a078-alt.m3u8
+#EXTINF: -1 tvg-id= tvg-logo="https://images.pluto.tv/channels/60142258a54aeb0007751c15/colorLogoPNG.png"  group-title="INFANTILES",  Retro Cartoons
+https://r.mjh.nz/PlutoTV/60142258a54aeb0007751c15-alt.m3u8
+#EXTINF: -1 tvg-id= tvg-logo="https://images.pluto.tv/channels/5dcde0cc2efd2700090b7ff4/colorLogoPNG.png"  group-title="CINE Y SERIES",  TV Novelas
+https://r.mjh.nz/PlutoTV/5dcde0cc2efd2700090b7ff4-alt.m3u8
+#EXTINF: -1 tvg-id= tvg-logo="https://images.pluto.tv/channels/604bdf4e6d0abc0007ba77ad/colorLogoPNG.png"  group-title="CINE Y SERIES",Sin Tetas No Hay Paraíso
+https://r.mjh.nz/PlutoTV/604bdf4e6d0abc0007ba77ad-alt.m3u8
+#EXTINF: -1 tvg-name=" tvg-logo="https://fotografias.atresseries.com/clipping/cmsimages02/2018/02/22/20C2BFA8-ACA3-47DA-AAFB-188D456AB2A9/58.jpg" group-title="CINE Y SERIES", A3SERIES HD
 http://live1.cl.cdn.lla.vtrplay.com/a3serieshdchi/vxfmt=dp/playlist.m3u8?device_profile=STB_HLS_VCAS_LIVE_HD
-#EXTINF: -1 tvg-name=" tvg-logo=" group-title="CINE Y SERIES", A3CINE HD
+#EXTINF: -1 tvg-name=" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQLWNOZK-l1huOwcV6kEoHFeTxqRY1UNdMJYg&s" group-title="CINE Y SERIES", A3CINE HD
 http://live1.cl.cdn.lla.vtrplay.com/a3cinehdchi/vxfmt=dp/playlist.m3u8?device_profile=STB_HLS_VCAS_LIVE_HD
 #EXTINF: -1 tvg-name=" tvg-logo="https://images.pluto.tv/channels/5dcde437229eff00091b6c30/colorLogoPNG.png" group-title="CINE Y SERIES", Cine Estelar
 https://r.mjh.nz/PlutoTV/5dcde437229eff00091b6c30-alt.m3u8
@@ -170,8 +182,6 @@ http://live1.cl.cdn.lla.vtrplay.com/babyfirsthdchi/vxfmt=dp/playlist.m3u8?device
 http://live1.cl.cdn.lla.vtrplay.com/etctvhdchi/vxfmt=dp/playlist.m3u8?device_profile=STB_HLS_VCAS_LIVE_HD
 #EXTINF: -1 tvg-id="CARTOON NETWORK" tvg-name="CARTOON NETWORK" tvg-logo="https://i.ibb.co/Y333Xbq/cartoon-network.png" group-title="INFANTILES", CARTOON NETWORK HD
 http://live1.cl.cdn.lla.vtrplay.com/cartoonhdchi/vxfmt=dp/playlist.m3u8?device_profile=STB_HLS_VCAS_LIVE_HD
-#EXTINF: -1 tvg-id="CARTOON NETWORK" tvg-name="CARTOON NETWORK" tvg-logo="https://i.ibb.co/Y333Xbq/cartoon-network.png" group-title="INFANTILES", CARTOON PRUEBA
-http://190.119.127.236:8000/play/a011
 #EXTINF: -1 tvg-id="DISCOVERY KIDS" tvg-name="DISCOVERY KIDS" tvg-logo="https://i.ibb.co/PtKd97J/discovery-kids.png" group-title="INFANTILES", DISCOVERY KIDS HD
 http://38.41.8.1:8000/play/a016
 #EXTINF: -1 tvg-id="DISNEY CHANNEL" tvg-name="DISNEY CHANNEL" tvg-logo="https://i.ibb.co/Lk9TH8f/disney-channel.png" group-title="INFANTILES", DISNEY CHANNEL HD
