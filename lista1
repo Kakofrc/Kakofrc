@@ -13,9 +13,7 @@ https://mdstrm.com/live-stream-playlist/5653641561b4eba30a7e4929.m3u8?PlaylistM3
 https://mdstrm.com/live-stream-playlist/5c0e8b19e4c87f3f2d3e6a59.m3u8?PlaylistM3UCL
 #EXTINF: -1 tvg-chno="2" tvg-logo="https://cdn.m3u.cl/logo/455_Mega.png" group-title="NACIONALES", mEGa en vivo
 http://live1.cl.cdn.lla.vtrplay.com/megahdchi/vxfmt=dp/playlist.m3u8?device_profile=STB_HLS_VCAS_LIVE_HD
-#EXTINF: -1 tvg-chno="2" tvg-logo="https://cdn.m3u.cl/logo/455_Mega.png" group-title="NACIONALES", mEGa2
-https://www.directvgo.com/player/live/CH0100000000346
-#EXTINF:-1 tvg-id="" tvg-name="MEGA2" tvg-logo="https://cdn.m3u.cl/logo/458_TV_.png"group-title="NACIONALES", MEGA2
+#EXTINF:-1 tvg-id="" tvg-name="MEGA2" tvg-logo="https://cdn.m3u.cl/logo/458_TV_.png"group-title="NACIONALES", MEGA OPC2
 https://unlimited1-cl-isp.dps.live/mega/mega.smil/playlist.m3u8?PlaylistM3UCL
 #EXTINF: -1 tvg-chno="1" tvg-logo="https://cdn.prod.website-files.com/605a3cacba514a77ca2e6ab5/6065f663f15e93a566c36087_chv.jpeg" group-title="NACIONALES", CHV EN VIVO
 https://mdstrm.com/live-stream-playlist/5ef5fb3025c9a6086c457c55.m3u8?PlaylistM3UCL
