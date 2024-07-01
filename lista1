@@ -80,60 +80,14 @@ https://service-stitcher.clusters.pluto.tv/stitch/hls/channel/5cf96d351652631e36
 https://service-stitcher.clusters.pluto.tv/v1/stitch/embed/hls/channel/6076cd1df8576d0007c82193/master.m3u8?advertisingId=channel&appName=rokuchannel&appVersion=1.0&bmodel=bm1&channel_id=channel&content=channel&content_rating=ROKU_ADS_CONTENT_RATING&content_type=livefeed&coppa=false&deviceDNT=1&deviceId=channel&deviceMake=rokuChannel&deviceModel=web&deviceType=rokuChannel&deviceVersion=1.0&embedPartner=rokuChannel&genre=ROKU_ADS_CONTENT_GENRE&is_lat=1&platform=web&rdid=channel&studio_id=viacom&tags=ROKU_CONTENT_TAGS
 #EXTINF: -1 tvg-id="TNT Sports HD" tvg-name="TNT Sports HD" tvg-logo="https://spotlight-cl.cdn.telefonica.com/customer/v1/source?image=http%3A%2F%2Fmedia.cdn.telefonica.com%2Fstoragearea0%2FIMAGES%2F00%2F18%2F56%2F18567794_A2C66547B8F06760.png&height=60&resize=RATIO&format=PNG" group-title="DEPORTES", TNT ● SPORTS PREM HD CHI ⚽
 http://45.181.122.13:8000/play/090
-#EXTINF: -1 tvg-id="CANAL FIFA+" tvg-name="CANAL FIFA+" tvg-logo="https://tvpnlogopeu.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34 /ESBC2700009B4_20230712T021339SQUARE.png_20230712021340.png" group-title="DEPORTES", -FIFA+ HD⚽
-https://i.mjh.nz/SamsungTVPlus/ESBC2700009B4.m3u8
+#EXTINF: -1 tvg-id="CANAL FIFA+" tvg-name="CANAL FIFA+" tvg-logo="https://play-lh.googleusercontent.com/NcrdWFjmF2GPRlif4xC-9WM4bQXxHjU4yuWVQjsdDh7xtKPc6nVSRhp-iOlFnpuepg" group-title="DEPORTES", FIFA+ HD⚽
+https://bfbbd63e.wurl.com/master/f36d25e7e52f1ba8d7e56eb859c636563214f541/UmFrdXRlblRWLWl0X0ZJRkFQbHVzX0hMUw/playlist.m3u8?ads.amznbrmid=&ads.amznregion=&ads.amznslots=&ads.app_bundle=com.rakuten.tv&ads.app_store_url=rakuten.tv&ads.app_version=&ads.brand_name=&ads.content_classification=0&ads.device_lmt=1&ads.device_make=&ads.device_model=&ads.device_type=web&ads.device_year=&ads.env=prod&ads.gam_correlator=&ads.gdpr_consent=&ads.market=it&ads.os_language=&ads.player_height=&ads.player_width=&ads.pod_type=playerpage_midroll&ads.ppid=&ads.rtv_content_id=5057&ads.rtv_content_language=ita&ads.rtvid=271861&ads.streaming_id=ed8bcfb1-538c-4380-8c48-9f51fb429f82&ads.tivo_devcountry=&ads.tivo_devmakedate=&ads.tivo_mvpd=&ads.tivo_platform=&ads.tivo_usid=&ads.tivo_uxloc=&ads.user_type=visitor&ads.wurl_channel=1464
 #EXTINF: -1 tvg-id="TNT Sports HD" tvg-name="TNT Sports HD" tvg-logo="https://spotlight-cl.cdn.telefonica.com/customer/v1/source?image=http%3A%2F%2Fmedia.cdn.telefonica.com%2Fstoragearea0%2FIMAGES%2F00%2F18%2F56%2F18567794_A2C66547B8F06760.png&height=60&resize=RATIO&format=PNG" group-title="DEPORTES", TNT ● SPORTS PREM HD ARG⚽
 http://45.5.151.151:8000/play/a002/index.m3u8
-#EXTINF: -1 tvg-id= tvg-logo="https://images.pluto.tv/channels/5dd837642c6e9300098ad484/colorLogoPNG.png"  group-title="CINE Y SERIES", Series Latinas
-https://r.mjh.nz/PlutoTV/5dd837642c6e9300098ad484-alt.m3u8
-#EXTINF: -1 tvg-id= tvg-logo="https://images.pluto.tv/channels/5de802659167b10009e7deba/colorLogoPNG.png"  group-title="CINE Y SERIES",  Series Retro
-https://r.mjh.nz/PlutoTV/5de802659167b10009e7deba-alt.m3u8
-#EXTINF: -1 tvg-id= tvg-logo="https://images.pluto.tv/channels/63eb95baa99571000898a078/colorLogoPNG.png" group-title="CINE Y SERIES",  MacGyver
-https://r.mjh.nz/PlutoTV/63eb95baa99571000898a078-alt.m3u8
-#EXTINF: -1 tvg-id= tvg-logo="https://images.pluto.tv/channels/60142258a54aeb0007751c15/colorLogoPNG.png"  group-title="INFANTILES",  Retro Cartoons
-https://r.mjh.nz/PlutoTV/60142258a54aeb0007751c15-alt.m3u8
-#EXTINF: -1 tvg-id= tvg-logo="https://images.pluto.tv/channels/5dcde0cc2efd2700090b7ff4/colorLogoPNG.png"  group-title="CINE Y SERIES",  TV Novelas
-https://r.mjh.nz/PlutoTV/5dcde0cc2efd2700090b7ff4-alt.m3u8
-#EXTINF: -1 tvg-id= tvg-logo="https://images.pluto.tv/channels/604bdf4e6d0abc0007ba77ad/colorLogoPNG.png"  group-title="CINE Y SERIES",Sin Tetas No Hay Paraíso
-https://r.mjh.nz/PlutoTV/604bdf4e6d0abc0007ba77ad-alt.m3u8
 #EXTINF: -1 tvg-name=" tvg-logo="https://fotografias.atresseries.com/clipping/cmsimages02/2018/02/22/20C2BFA8-ACA3-47DA-AAFB-188D456AB2A9/58.jpg" group-title="CINE Y SERIES", A3SERIES HD
 http://live1.cl.cdn.lla.vtrplay.com/a3serieshdchi/vxfmt=dp/playlist.m3u8?device_profile=STB_HLS_VCAS_LIVE_HD
 #EXTINF: -1 tvg-name=" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQLWNOZK-l1huOwcV6kEoHFeTxqRY1UNdMJYg&s" group-title="CINE Y SERIES", A3CINE HD
 http://live1.cl.cdn.lla.vtrplay.com/a3cinehdchi/vxfmt=dp/playlist.m3u8?device_profile=STB_HLS_VCAS_LIVE_HD
-#EXTINF: -1 tvg-name=" tvg-logo="https://images.pluto.tv/channels/5dcde437229eff00091b6c30/colorLogoPNG.png" group-title="CINE Y SERIES", Cine Estelar
-https://r.mjh.nz/PlutoTV/5dcde437229eff00091b6c30-alt.m3u8
-#EXTINF: -1 tvg-name=" tvg-logo="https://images.pluto.tv/channels/5dcb62e63d4d8f0009f36881/colorLogoPNG.png" group-title="CINE Y SERIES", Cine Acción
-https://r.mjh.nz/PlutoTV/5dcb62e63d4d8f0009f36881-alt.m3u8
-#EXTINF: -1 tvg-name=" tvg-logo="https://images.pluto.tv/channels/5e972a21ad709d00074195ba/colorLogoPNG.png" group-title="CINE Y SERIES", Estrellas de Acción
-https://r.mjh.nz/PlutoTV/5e972a21ad709d00074195ba-alt.m3u8
-#EXTINF: -1 tvg-name=" tvg-logo="https://images.pluto.tv/channels/61b793ccf571b80007b7a610/colorLogoPNG.png" group-title="CINE Y SERIES", Adrenalina Freezone
-https://r.mjh.nz/PlutoTV/61b793ccf571b80007b7a610-alt.m3u8
-#EXTINF: -1 tvg-name=" tvg-logo="https://images.pluto.tv/channels/5dcdde78f080d900098550e4/colorLogoPNG.png" group-title="CINE Y SERIES", Cine Comedia
-https://r.mjh.nz/PlutoTV/5dcdde78f080d900098550e4-alt.m3u8
-#EXTINF: -1 tvg-name=" tvg-logo="https://images.pluto.tv/channels/5dcddfcb229eff00091b6bdf/colorLogoPNG.png" group-title="CINE Y SERIES", Cine Drama
-https://r.mjh.nz/PlutoTV/5dcddfcb229eff00091b6bdf-alt.m3u8
-#EXTINF: -1 tvg-name=" tvg-logo="https://images.pluto.tv/channels/5dd7ea2aeab5230009986735/colorLogoPNG.png" group-title="CINE Y SERIES",Cine Romance
-https://r.mjh.nz/PlutoTV/5dd7ea2aeab5230009986735-alt.m3u8
-#EXTINF: -1 tvg-name=" tvg-logo="https://images.pluto.tv/channels/5ddc4e8bcbb9010009b4e84f/colorLogoPNG.png" group-title="CINE Y SERIES",Cine Suspenso
-https://r.mjh.nz/PlutoTV/5ddc4e8bcbb9010009b4e84f-alt.m3u8
-#EXTINF: -1 tvg-name=" tvg-logo="https://images.pluto.tv/channels/624af40c004f8000079b784d/colorLogoPNG.png" group-title="CINE Y SERIES",Cine Crimen
-https://r.mjh.nz/PlutoTV/624af40c004f8000079b784d-alt.m3u8
-#EXTINF: -1 tvg-name=" tvg-logo="https://images.pluto.tv/channels/5dcddf1ed95e740009fef7ab/colorLogoPNG.png" group-title="CINE Y SERIES",Cine Terror
-https://r.mjh.nz/PlutoTV/5dcddf1ed95e740009fef7ab-alt.m3u8
-#EXTINF: -1 tvg-name=" tvg-logo="https://images.pluto.tv/channels/5f2817d3d7573a00080f9175/colorLogoPNG.png" group-title="CINE Y SERIES",Sci-Fi
-https://r.mjh.nz/PlutoTV/5f2817d3d7573a00080f9175-alt.m3u8
-#EXTINF: -1 tvg-name=" tvg-logo="https://images.pluto.tv/channels/62c5d80dc6de440007e033eb/colorLogoPNG.png" group-title="CINE Y SERIES",Runtime
-https://r.mjh.nz/PlutoTV/62c5d80dc6de440007e033eb-alt.m3u8
-#EXTINF: -1 tvg-name=" tvg-logo="https://images.pluto.tv/channels/5defde6d6c07b50009cf0757/colorLogoPNG.png" group-title="CINE Y SERIES",Nuestro Cine
-https://r.mjh.nz/PlutoTV/5defde6d6c07b50009cf0757-alt.m3u8
-#EXTINF: -1 tvg-name=" tvg-logo="https://images.pluto.tv/channels/609059dc63be6e0007b4eca6/colorLogoPNG.png" group-title="CINE Y SERIES", Cine Clásico
-https://r.mjh.nz/PlutoTV/609059dc63be6e0007b4eca6-alt.m3u8
-#EXTINF: -1 tvg-name=" tvg-logo="https://images.pluto.tv/channels/5dd6ddb30a1d8a000908ed4c/colorLogoPNG.png" group-title="CINE Y SERIES",Cine Familia
-https://r.mjh.nz/PlutoTV/5dd6ddb30a1d8a000908ed4c-alt.m3u8
-#EXTINF: -1 tvg-name=" tvg-logo="https://images.pluto.tv/channels/63eb9255c111bc0008fe6ec4/colorLogoPNG.png" group-title="CINE Y SERIES",CSI: Miami
-https://r.mjh.nz/PlutoTV/63eb9255c111bc0008fe6ec4-alt.m3u8
-#EXTINF: -1 tvg-name=" tvg-logo="https://images.pluto.tv/channels/63eb947c4e83e70008ab877b/colorLogoPNG.png" group-title="CINE Y SERIES", NCIS
-https://r.mjh.nz/PlutoTV/63eb947c4e83e70008ab877b-alt.m3u8
 #EXTINF: -1 tvg-id="210dtv.cl" tvg-name="AMC" tvg-logo="https://i.ibb.co/ncDh80L/amc.png" group-title="CINE Y SERIES", AMC HD
 http://live1.cl.cdn.lla.vtrplay.com/amchdchi/vxfmt=dp/playlist.m3u8?device_profile=STB_HLS_VCAS_LIVE_HD
 #EXTINF: -1 tvg-id="507dtv.co" tvg-name="Cinecanal (COL)" tvg-logo="https://i.ibb.co/tYK9Prg/cinecanal.png" group-title="CINE Y SERIES", CINECANAL HD
