@@ -4,7 +4,7 @@ https://unlimited1-cl-isp.dps.live/lared/lared.smil/playlist.m3u8?PlaylistM3UCL
 #EXTINF: -1 tvg-chno="2" tvg-logo="https://cdn.m3u.cl/logo/54_UCV.png" group-title="NACIONALES", UCV    EN VIVO
 https://unlimited2-cl-isp.dps.live/ucvtv2/ucvtv2.smil/playlist.m3u8?PlaylistM3UCL
 #EXTINF: -1 tvg-chno="3" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/8/82/Logotipo_de_TVN_HD_%282016-2020%29.png" tvg-logo-small="https://upload.wikimedia.org/wikipedia/commons/8/82/Logotipo_de_TVN_HD_%282016-2020%29.png" group-title="NACIONALES", tVn Hd
-https://us-b4-p-e-pb13.cdn.mdstrm.com/live-stream-dai/463d723d6e0e41649b643671eb18c9a1/manifest/f624fec49dadc88894ebeff1d974eab019af7757/57a498c4d7b86d600e5461cb/ac13b0a9-d7e2-456d-8e71-2f1426156d7c/3.m3u8?aid=51c2f628b440bd797900051f&uid=Y5CR7TNh4Zn99Zz7AyQUxWOlejtVih1p&sid=WwwJRxuFRLWyewYvSb1URNOWSy68Jzby&pid=N8UvjHGNNReiwRs3z9LP1gdCOfxhvj8o&ref=https%3A%2F%2Flive.tvn.cl%2F&without_cookies=false&listenerid=&dnt=true&access_token=5eRioxprJNfotOPlLKv93RXmNffpb7pdNAuIm9vI230f0y5JwlruQ0XHc4kkwtTqEYEQqfT7tJr&es=cl-a3-p-e-hb2.cdn.mdstrm.com&ote=1720832958028&ot=gPxSoqss6I1aQivb132BJA&proto=https&pz=cl
+https://us-b4-p-e-pb13.cdn.mdstrm.com/live-stream-dai/463d723d6e0e41649b643671eb18c9a1/manifest/f624fec49dadc88894ebeff1d974eab019af7757/57a498c4d7b86d600e5461cb/ac13b0a9-d7e2-456d-8e71-2f1426156d7c/3.m3u8?
 #EXTINF: -1 tvg-chno="2" tvg-logo="https://cdn.m3u.cl/logo/448_TVN_24_Horas.png" group-title="NACIONALES", TVN 24 HORAS NOTICIAS
 https://mdstrm.com/live-stream-playlist/57d1a22064f5d85712b20dab.m3u8?PlaylistM3UCL
 #EXTINF: -1 tvg-chno="2" tvg-logo="https://cdn.m3u.cl/logo/1437_TVN3.png" group-title="NACIONALES", TVN 3
