@@ -47,6 +47,12 @@ https://origin.dpsgo.com/ssai/event/p4mmBxEzSmKAxY1GusOHrw/master.m3u8?PlaylistM
 https://origin.dpsgo.com/ssai/event/g7_JOM0ORki9SR5RKHe-Kw/master.m3u8?PlaylistM3UCL
 #EXTINF:-1 tvg-id="1032" tvg-name="13 Teleseries" tvg-logo="https://cdn.m3u.cl/logo/1032_13_Teleseries.png"group-title="NACIONALES", 13 Teleseries
 https://origin.dpsgo.com/ssai/event/f4TrySe8SoiGF8Lu3EIq1g/master.m3u8?PlaylistM3UCL
+#EXTINF:-1 tvg-id="4" tvg-name="Retro Plus TV" tvg-logo="https://cdn.m3u.cl/logo/4_Retro_Plus_TV.png" group-title="OTROS", Retro Plus TV ✪ | CL
+https://tls-cl.cdnz.cl/retroplus16@grupoz.cl_retrolive/live/playlist.m3u8?PlaylistM3UCL
+#EXTINF:-1 tvg-id="5" tvg-name="Retro Plus TV Señal 2" tvg-logo="https://cdn.m3u.cl/logo/5_Retro_Plus_TV_Senal_2.png" group-title="OTROS", Retro Plus TV Señal 2 ✪ | CL
+https://tls-cl.cdnz.cl/retroplustvdos/live/playlist.m3u8?PlaylistM3UCL
+#EXTINF:-1 tvg-id="465" tvg-name="Retro Plus TV Señal 3" tvg-logo="https://cdn.m3u.cl/logo/465_Retro_Plus_TV_Senal_3.png" group-title="OTROS", Retro Plus TV Señal 3 ✪ | CL
+https://tls-cl.cdnz.cl/retroplustvtres/live/playlist.m3u8?PlaylistM3UCL
 #EXTINF:-1 tvg-logo="https://prod-ripcut-delivery.disney-plus.net/v1/variant/disney/9D6886642F2FE58FFDD900775BDDFF0AF29BB4B3D294F2085E1174D57BE26B1A/scale?width=600&aspectRatio=1.78&format=webp" group-title="INFANTILES",DiSnEy ChAnNel
 https://dsr.ride.com.ar/tvmia/sn27/chunks.m3u8?wmsAuthSign=c2VydmVyX3RpbWU9Ny8zLzIwMjQgNjoyMDoxNSBQTSZoYXNoX3ZhbHVlPWxTSzFpUUdOYlNDQVFLOVRBMTE4S3c9PSZ2YWxpZG1pbnV0ZXM9MTA=
 #EXTINF:-1 tvg-logo="https://i0.wp.com/directostv.teleame.com/wp-content/uploads/2022/10/BOM-Cine-TV-en-directo-Online.png?fit=1920%2C1080&ssl=1" group-title="CINE",bOM cIne
