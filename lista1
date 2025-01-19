@@ -5,8 +5,6 @@ https://unlimited1-cl-isp.dps.live/lared/lared.smil/playlist.m3u8?PlaylistM3UCL
 https://unlimited2-cl-isp.dps.live/ucvtv2/ucvtv2.smil/playlist.m3u8?PlaylistM3UCL
 
 #EXTINF:-1 tvg-id="TVN" tvg-name="TVN" tvg-logo="https://i.ibb.co/3NmJZNb/tvn.png" group-title="NACIONAL",TVN HD
-#KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.license_key={ "keys":[ { "kty":"oct", "k":"d/nU1qFwH1NSCLz7WcAxHw", "kid":"qsQrXWpvW+2/1irF/vKJeA" },{ "kty":"oct", "k":"XiOoAFP7J086ASb6KHrrzw", "kid":"4hyVGmZxWcujnAmpRnUfcw" },{ "kty":"oct", "k":"ZJueey+t0p2zVbbbvAxS6w", "kid":"coh5b86yVlucQZ22OLXcGw" } ], "type":"temporary" }
 https://cdn-live.mundogo.cl/tvn/tvn.mpd
 
 #EXTINF: -1 tvg-chno="2" tvg-logo="https://cdn.m3u.cl/logo/448_TVN_24_Horas.png" group-title="NACIONALES", TVN 24 HORAS NOTICIAS
