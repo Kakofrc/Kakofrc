@@ -21,12 +21,14 @@ https://mdstrm.com/live-stream-playlist/533adcc949386ce765657d7c.m3u8
 https://cdn-live.mundogo.cl/megahd/megahd.mpd
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://cdn.m3u.cl/logo/455_Mega.png"group-title="NACIONALES", MEGA OPC2
 https://unlimited1-cl-isp.dps.live/mega/mega.smil/playlist.m3u8?PlaylistM3UCL
-
-
 #EXTINF:-1 tvg-id="CHV" tvg-name="CHV" tvg-logo="https://i.ibb.co/60YtW1H/chv.png" group-title="NACIONALES",CHILEVISION HD
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key={ "keys":[ { "kty":"oct", "k":"dqUhhx1yCBJDp1mzJJA6qg", "kid":"knfaekUMU3qMu2yCnJOLyQ" },{ "kty":"oct", "k":"E6pTzM3gwIdabnVpMs8u9Q", "kid":"hEWhRQNyXVGot2MJPkkH+g" },{ "kty":"oct", "k":"F0VQQyWzeSLA1a2u6sgDwg", "kid":"c+/00+G8XmGaLGIc/6H4gg" } ], "type":"temporary" }
 https://cdn-live.mundogo.cl/chilevisionhd/chilevisionhd.mpd
+#EXTINF:-1 tvg-id="1569" tvg-name="CHV Deportes" tvg-logo="https://cdn.m3u.cl/logo/1569_CHV_Deportes.png", CHV Deportes ✪ | CL
+https://mdstrm.com/live-stream-playlist/6531749eaf244059b3ade17b.m3u8?PlaylistM3UCL
+#EXTINF:-1 tvg-id="1153" tvg-name="CHV" tvg-logo="https://cdn.m3u.cl/logo/1153_CHV.png", CHV ✪ | CL
+https://mdstrm.com/live-stream-playlist/6491ced935a5833c47dd7f41.m3u8?PlaylistM3UCL
 
 #EXTINF: -1 tvg-chno="7" tvg-logo="https://cdn.m3u.cl/logo/457_Canal_13.png" group-title="NACIONALES", C13 en vivo
 https://unlimited1-cl-isp.dps.live/t13radio/t13radio.smil/playlist.m3u8?PlaylistM3UCL
