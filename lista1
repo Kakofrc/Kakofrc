@@ -49,6 +49,8 @@ https://cdn-live.mundogo.cl/chilevisionhd/chilevisionhd.mpd
 #KODIPROP:inputstream.adaptive.license_key={ "keys":[ { "kty":"oct", "k":"NyCKl8fwHt9SPtdXXVup9A", "kid":"VzdZuIhvXamSo8zOva6yHQ" },{ "kty":"oct", "k":"1oEjgsMbH+68Ukx1yiyZ7Q", "kid":"Wv/ZEqcIUEabrubtIQNdHA" },{ "kty":"oct", "k":"DCMFnyVyNIvc+KQXTctrqA", "kid":"+wF5ZnvWUr66PEtryUjYRw" } ], "type":"temporary" }
 https://cdn-live.mundogo.cl/canal13/canal13.mpd
 
+#EXTINF:-1 tvg-id="13 JUNIOR" tvg-name="13 JUNIOR" tvg-logo="https://camo.githubusercontent.com/65cdba113601db37608b5f9ebb79447808aac84c347c5467f3dfd22e2650c262/68747470733a2f2f692e696d6775722e636f6d2f6d367939414d652e706e67" group-title="INFANTILES",13 JR HD
+https://dai.google.com/linear/hls/pa/event/LhHrVtyeQkKZ-Ye_xEU75g/stream/e256af1e-b2ed-40bd-a972-7cbffab3205a:SCL2/master.m3u8
 
 #EXTINF:-1 tvg-id="DISNEY JUNIOR" tvg-name="DISNEY JUNIOR" tvg-logo="https://i.ibb.co/MSXFY3T/disney-jr.png" group-title="INFANTILES",DISNEY JR HD
 http://190.14.10.19:16000/play/a02d/index.m3u8
