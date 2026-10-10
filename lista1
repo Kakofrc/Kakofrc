@@ -60,7 +60,8 @@ https://jmp2.uk/plu-5ee92e72fb286e0007285fec.m3u8
 
 #EXTINF:-1 tvg-id="NICKELODEON" tvg-name="NICK" tvg-logo="https://i.imgur.com/E84jnP8.png" group-title="INFANTILES",NICKELODEON 
 http://190.93.224.42/NICK/index.m3u8
-
+#EXTINF:-1 tvg-id="507dtv.co" tvg-name="Cinecanal (COL)" tvg-logo="https://i.ibb.co/tYK9Prg/cinecanal.png" group-title="CINE Y SERIES",CINECANAL HD
+http://181.119.66.28:8081/CINECANAL-HD/index.m3u8
 
 #EXTINF:-1 tvg-id="de-pelicula.mx" tvg-name="MX | De Película" tvg-logo="https://imagenes.gatotv.com/logos/canales/claros/de_pelicula-mediano.png" group-title="CINE Y SERIES",DE PELICULA HD
 #KODIPROP:inputstream.adaptive.license_type=clearkey
