@@ -1,6 +1,6 @@
 #EXTINF: -1 tvg-chno="1" tvg-logo="https://logos-marcas.com/wp-content/uploads/2021/11/Universal-Logo-650x366.png" group-title="internacional", universal STUDIO
 http://138.121.15.230:9002/STUDIO-UNIVERSAL/index.m3u8
-#EXTINF: -1 tvg-chno="1" tvg-logo="https://logos-marcas.com/wp-content/uploads/2021/11/Universal-Logo-650x366.png" group-title="internacional", universO
+#EXTINF: -1 tvg-chno="1" tvg-logo="" group-title="internacional", universO
 http://187.102.210.46/universo/index.m3u8
 
 
