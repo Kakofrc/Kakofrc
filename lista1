@@ -73,7 +73,7 @@ https://cdn-live.mundogo.cl/spacehd/spacehd.mpd
 #KODIPROP:inputstream.adaptive.license_key={ "keys":[ { "kty":"oct", "k":"ZaIZqmQXvYPGUBg6SC+t8Q", "kid":"5Hd/mUc1VTSNPPkxu0nqOQ" },{ "kty":"oct", "k":"/hFkQYGELm+amtLeWL/elw", "kid":"zt2r9DVHUwqqib8ULBIy7w" },{ "kty":"oct", "k":"aeAi9LG7bvQVSYH8smOkKg", "kid":"jBMEIcbDX223EcpjrBWAvg" } ], "type":"temporary" }
 https://cdn-live.mundogo.cl/tnthd/tnthd.mpd 
 
-EXTINF: -1 tvg-chno="1" tvg-logo="https://logos-marcas.com/wp-content/uploads/2021/11/Universal-Logo-650x366.png" group-title="internacional", universal tv
+#EXTINF: -1 tvg-chno="1" tvg-logo="https://logos-marcas.com/wp-content/uploads/2021/11/Universal-Logo-650x366.png" group-title="internacional", universal tv
 http://38.134.250.110:8000/play/a006/index.m3u8
 
 #EXTINF: -1 tvg-chno="1" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/8/86/TNT_Series.png?utm_source=es.wikipedia.org&utm_campaign=index&utm_content=original" group-title="internacional", TNT SERIES
@@ -91,10 +91,10 @@ http://190.60.46.156:8089/TELEMUNDO/index.m3u8
 #EXTINF: -1 tvg-chno="1" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/b/bd/TNT-oficial.png?utm_source=es.wikipedia.org&utm_campaign=index&utm_content=thumbnail_unscaled" group-title="internacional", TNT español ingles
 http://45.171.64.30:6060/play/a03i/index.m3u8
 
-EXTINF: -1 tvg-chno="1" tvg-logo="https://logos-marcas.com/wp-content/uploads/2021/11/Universal-Logo-650x366.png" group-title="internacional", STUDIO universal 
+#EXTINF: -1 tvg-chno="1" tvg-logo="https://logos-marcas.com/wp-content/uploads/2021/11/Universal-Logo-650x366.png" group-title="internacional", STUDIO universal 
 http://138.121.15.230:9002/STUDIO-UNIVERSAL/index.m3u8
 
-EXTINF: -1 tvg-chno="1" tvg-logo="" group-title="internacional", UNIVERSAL 
+#EXTINF: -1 tvg-chno="1" tvg-logo="" group-title="internacional", UNIVERSAL 
 http://187.102.210.46/universo/index.m3u8
 
 #EXTINF:-1 tvg-id="1175dtv.cl" tvg-name="ESPN Chile" tvg-logo="https://i.ibb.co/k5WgfJ1/espn.png" group-title="DEPORTES",ESPN HD
