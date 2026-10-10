@@ -1,127 +1,15 @@
-#EXTM3U 
-#EXTINF:-1 tvg-id="RED TELEVISION HD" tvg-name="RED TELEVISION HD" tvg-logo="https://i.ibb.co/VNdDky3/la-red.png" group-title="NACIONAL",LA RED HD (2)
-#KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.license_key={ "keys":[ { "kty":"oct", "k":"NfN9nS+I1XeyKcaR0bKb4w", "kid":"01LCA+KgVAeNp/FIMa/Klw" },{ "kty":"oct", "k":"9pedu2NSIid/gDddHTnXFA", "kid":"L3IxyNrvWA2zm4uNGMh1hQ" },{ "kty":"oct", "k":"q6rpZWDa2zZcOqzPRQDUdw", "kid":"pHIuTMasW6OVkGscTaTRmA" } ], "type":"temporary" }
-https://cdn-live.mundogo.cl/lared/lared.mpd
-
-#EXTINF: -1 tvg-chno="2" tvg-logo="https://cdn.m3u.cl/logo/54_UCV.png" group-title="NACIONALES", UCV    EN VIVO
-https://unlimited2-cl-isp.dps.live/ucvtv2/ucvtv2.smil/playlist.m3u8?PlaylistM3UCL
-
-#EXTINF:-1 tvg-id="TVN" tvg-name="TVN" tvg-logo="https://i.ibb.co/3NmJZNb/tvn.png" group-title="NACIONAL",TVN HD (2)
-#KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.license_key={ "keys":[ { "kty":"oct", "k":"d/nU1qFwH1NSCLz7WcAxHw", "kid":"qsQrXWpvW+2/1irF/vKJeA" },{ "kty":"oct", "k":"XiOoAFP7J086ASb6KHrrzw", "kid":"4hyVGmZxWcujnAmpRnUfcw" },{ "kty":"oct", "k":"ZJueey+t0p2zVbbbvAxS6w", "kid":"coh5b86yVlucQZ22OLXcGw" } ], "type":"temporary" }
-https://cdn-live.mundogo.cl/tvn/tvn.mpd
-
-#EXTINF:-1 tvg-id="TV+ HD" tvg-name="TV+ HD" tvg-logo="https://i.ibb.co/SP9HQH8/tv.png" group-title="NACIONAL",TV+ HD
-#KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.license_key={ "keys":[ { "kty":"oct", "k":"qhtBDVXi9XooWf7qfnvgPw", "kid":"rSj+ax7PX+iNOD1za3fYFw" },{ "kty":"oct", "k":"D3krXBpUggt+Bte2HPHVKw", "kid":"WdXh7WXZXxKsCi1BNk/W2A" },{ "kty":"oct", "k":"OHls8RkhHtY3K5TS5rlbTg", "kid":"HlSrYIXWVvKdrfo1jdJKnA" } ], "type":"temporary" }
-https://cdn-live.mundogo.cl/tvp/tvp.mpd
-#EXTINF: -1 tvg-chno="2" tvg-logo="https://cdn.m3u.cl/logo/448_TVN_24_Horas.png" group-title="NACIONALES", TVN 24 HORAS NOTICIAS
-https://mdstrm.com/live-stream-playlist/57d1a22064f5d85712b20dab.m3u8?PlaylistM3UCL
-#EXTINF:-1 tvg-id="1437" tvg-name="TVN3" tvg-logo="https://cdn.m3u.cl/logo/1437_TVN3.png", TVN3 ✪ | CL
-https://mdstrm.com/live-stream-playlist/5653641561b4eba30a7e4929.m3u8?PlaylistM3UCL
-
-#EXTINF: -1 tvg-chno="2" tvg-logo="data:image/png;base64,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" group-title="NACIONALES", TV CHILE
-https://mdstrm.com/live-stream-playlist/533adcc949386ce765657d7c.m3u8
-
-
-#EXTINF:-1 tvg-id="24 Horas HD" tvg-name="24 Horas HD" tvg-logo="https://i.ibb.co/dMGyMM0/24-horas.png" group-title="NACIONAL",CANAL 24 HORAS HD (2)
-https://mdstrm.com/live-stream-playlist-v/57d1a22064f5d85712b20dab.m3u8
-
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://cdn.m3u.cl/logo/455_Mega.png"group-title="NACIONALES", MEGA OPC2
-https://unlimited1-cl-isp.dps.live/mega/mega.smil/playlist.m3u8?PlaylistM3UCL
-
-
-#EXTINF:-1 tvg-id="Mega" tvg-name="Mega" tvg-logo="https://i.ibb.co/KVwyHBQ/mega.png" group-title="NACIONAL",MEGA HD (2)
-#KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.license_key={ "keys":[ { "kty":"oct", "k":"omisb3BTUd+mx3OY11VZ2A", "kid":"aPEVoOM+XuqA6n1DlAhRIg" },{ "kty":"oct", "k":"RvzUidoRiHnKg53LDMJgyg", "kid":"O0mp7/cJUPilYLh1X+uVAg" },{ "kty":"oct", "k":"zV8aUU7WOnbuyrEZWOPSww", "kid":"vZBRINS1WiSN/5S5by9xQw" } ], "type":"temporary" }
-https://cdn-live.mundogo.cl/megahd/megahd.mpd
-
-#EXTINF:-1 tvg-id="CHV" tvg-name="CHV" tvg-logo="https://i.ibb.co/60YtW1H/chv.png" group-title="NACIONAL",CHILEVISION HD
-#KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.license_key={ "keys":[ { "kty":"oct", "k":"dqUhhx1yCBJDp1mzJJA6qg", "kid":"knfaekUMU3qMu2yCnJOLyQ" },{ "kty":"oct", "k":"E6pTzM3gwIdabnVpMs8u9Q", "kid":"hEWhRQNyXVGot2MJPkkH+g" },{ "kty":"oct", "k":"F0VQQyWzeSLA1a2u6sgDwg", "kid":"c+/00+G8XmGaLGIc/6H4gg" } ], "type":"temporary" }
-https://cdn-live.mundogo.cl/chilevisionhd/chilevisionhd.mpd
-
-#EXTINF:-1 tvg-id="Canal 13 HD" tvg-name="Canal 13 HD" tvg-logo="https://i.ibb.co/hsPWxXx/canal-13.png" group-title="NACIONAL",CANAL 13 HD (2)
-#KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.license_key={ "keys":[ { "kty":"oct", "k":"NyCKl8fwHt9SPtdXXVup9A", "kid":"VzdZuIhvXamSo8zOva6yHQ" },{ "kty":"oct", "k":"1oEjgsMbH+68Ukx1yiyZ7Q", "kid":"Wv/ZEqcIUEabrubtIQNdHA" },{ "kty":"oct", "k":"DCMFnyVyNIvc+KQXTctrqA", "kid":"+wF5ZnvWUr66PEtryUjYRw" } ], "type":"temporary" }
-https://cdn-live.mundogo.cl/canal13/canal13.mpd
-
-
-#EXTINF:-1 tvg-id="DISNEY JUNIOR" tvg-name="DISNEY JUNIOR" tvg-logo="https://i.ibb.co/MSXFY3T/disney-jr.png" group-title="INFANTILES",DISNEY JR HD
-http://190.14.10.19:16000/play/a02d/index.m3u8
-
-#EXTINF:-1 tvg-id="NARUTO" tvg-name="NARUTO" tvg-logo="https://i.imgur.com/hG8F0RY.png" group-title="INFANTILES",NARUTO TV
-https://jmp2.uk/plu-5ee92e72fb286e0007285fec.m3u8
-
-#EXTINF:-1 tvg-id="NICKELODEON" tvg-name="NICK" tvg-logo="https://i.imgur.com/E84jnP8.png" group-title="INFANTILES",NICKELODEON 
-http://190.93.224.42/NICK/index.m3u8
-
-
-#EXTINF:-1 tvg-id="de-pelicula.mx" tvg-name="MX | De Película" tvg-logo="https://imagenes.gatotv.com/logos/canales/claros/de_pelicula-mediano.png" group-title="CINE Y SERIES",DE PELICULA HD
-#KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.license_key={ "keys":[ { "kty":"oct", "k":"Duc1ujfe3hBm9GTtiBA+jA", "kid":"EXkspSAEU1KkFv8hbmwN4Q" },{ "kty":"oct", "k":"sZoLvyDt3956rRhd99EZmQ", "kid":"9aA5YeVWUOussxp6ZO6NpA" },{ "kty":"oct", "k":"sYpCElxPNG8PelttBmNoYw", "kid":"8jlSPgyiWouiwQCxSSeHbA" } ], "type":"temporary" }
-https://cdn-live.mundogo.cl/depelicula/depelicula.mpd
-
-#EXTINF:-1 tvg-id="Space.mx" tvg-name="" tvg-logo="https://assets-global.website-files.com/605a3cacba514a77ca2e6ab5/6065f6b3a567a9c9259721e3_space.png" group-title="CINE Y SERIES",SPACE HD (2)
-#KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.license_key={ "keys":[ { "kty":"oct", "k":"2u1TmSL54q3RcBApP9o8Ng", "kid":"huZL+YW/WiqLSNseTQ+GDA" },{ "kty":"oct", "k":"WoNKyh0J0S0dVltzuGFsAw", "kid":"EjEoWXhpUrWUeu41+doVrw" },{ "kty":"oct", "k":"YK+CBHd0BiDx5i/MQH333w", "kid":"NkGjl+bnX06HeQ0dZsX3Pg" } ], "type":"temporary" }
-https://cdn-live.mundogo.cl/spacehd/spacehd.mpd
-
-#EXTINF:-1 tvg-id="502dtv.cl" tvg-name="TNT Chile" tvg-logo="https://i.ibb.co/WcnmY6M/tnt.png" group-title="CINE Y SERIES",TNT HD (2)
-#KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.license_key={ "keys":[ { "kty":"oct", "k":"ZaIZqmQXvYPGUBg6SC+t8Q", "kid":"5Hd/mUc1VTSNPPkxu0nqOQ" },{ "kty":"oct", "k":"/hFkQYGELm+amtLeWL/elw", "kid":"zt2r9DVHUwqqib8ULBIy7w" },{ "kty":"oct", "k":"aeAi9LG7bvQVSYH8smOkKg", "kid":"jBMEIcbDX223EcpjrBWAvg" } ], "type":"temporary" }
-https://cdn-live.mundogo.cl/tnthd/tnthd.mpd 
-
 #EXTINF: -1 tvg-chno="1" tvg-logo="https://logos-marcas.com/wp-content/uploads/2021/11/Universal-Logo-650x366.png" group-title="internacional", universal tv
 http://38.134.250.110:8000/play/a006/index.m3u8
-
 #EXTINF: -1 tvg-chno="1" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/8/86/TNT_Series.png?utm_source=es.wikipedia.org&utm_campaign=index&utm_content=original" group-title="internacional", TNT SERIES
 http://168.196.127.137:6001/play/a095/index.m3u8
-
 #EXTINF: -1 tvg-chno="1" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/b/bd/TNT-oficial.png?utm_source=es.wikipedia.org&utm_campaign=index&utm_content=thumbnail_unscaled" group-title="internacional", TNT
 http://181.78.211.244:8005/play/a09g/index.m3u8
-
 #EXTINF: -1 tvg-chno="1" tvg-logo="https://yt3.googleusercontent.com/RzWGuPEoU86dJsKmz2cMtOlqh9VS9Uy_T1rm6YS8Jt01qnDKSVdduBlQj0tsP-zQ0F7429fEpQ=s900-c-k-c0x00ffffff-no-rj" group-title="internacional", TLC
 http://38.134.250.110:8000/play/a00n/index.m3u8
-
 #EXTINF: -1 tvg-chno="1" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQNqPHCLHzQYZtWGdIMY5-FuyR2PEh7ZsM8rJGFUoAAlg&s=10" group-title="internacional", TELEMUNDO
 http://190.60.46.156:8089/TELEMUNDO/index.m3u8
-
 #EXTINF: -1 tvg-chno="1" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/b/bd/TNT-oficial.png?utm_source=es.wikipedia.org&utm_campaign=index&utm_content=thumbnail_unscaled" group-title="internacional", TNT español ingles
 http://45.171.64.30:6060/play/a03i/index.m3u8
-
-#EXTINF: -1 tvg-chno="1" tvg-logo="https://logos-marcas.com/wp-content/uploads/2021/11/Universal-Logo-650x366.png" group-title="internacional", STUDIO universal 
-http://138.121.15.230:9002/STUDIO-UNIVERSAL/index.m3u8
-
-#EXTINF: -1 tvg-chno="1" tvg-logo="" group-title="internacional", UNIVERSAL 
-http://187.102.210.46/universo/index.m3u8
-
-#EXTINF:-1 tvg-id="1175dtv.cl" tvg-name="ESPN Chile" tvg-logo="https://i.ibb.co/k5WgfJ1/espn.png" group-title="DEPORTES",ESPN HD
-#KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.license_key={ "keys":[ { "kty":"oct", "k":"dPjqtGweQ/2Pe2TCGpb8Ww", "kid":"kGcRhN2CVBqdF4bqoCXjRQ" },{ "kty":"oct", "k":"RFFEe99V/kRR9KO/F32lmg", "kid":"uH19qIS9XzSWAV+cLlPIlg" },{ "kty":"oct", "k":"dcbm1XMI80ykgoAqXnlqBQ", "kid":"tpiboKoPXoqBfs39nDhZlA" } ], "type":"temporary" }
-https://cdn-live.mundogo.cl/espn/espn.mpd
-
-#EXTINF:-1 tvg-id="431dtv.cl" tvg-name="ESPN 2 Chile" tvg-logo="https://spotlight-cl.cdn.telefonica.com/customer/v1/source?image=http%3A%2F%2Fmedia.cdn.telefonica.com%2Fstoragearea0%2FIMAGES%2F00%2F06%2F38%2F6383310_007CE9E18A928D1C.png&height=60&resize=RATIO&format=PNG" group-title="DEPORTES",ESPN 2 HD
-#KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.license_key={ "keys":[ { "kty":"oct", "k":"MBX9udpV3rVx2xQd2eaniA", "kid":"SnkFDrcQVyu8PPp1cGwUEQ" },{ "kty":"oct", "k":"PzMAJnCPwv3RovDiPO59BA", "kid":"br92QVgVVlixp2XC2Gg10w" },{ "kty":"oct", "k":"QsOr676t6NPMryh32xYvcw", "kid":"iIYJ/A2FUfO3jMAY/mby/g" } ], "type":"temporary" }
-https://cdn-live.mundogo.cl/espn2/espn2.mpd
-
-#EXTINF:-1 tvg-id="1075dtv.cl" tvg-name="ESPN 3 Andina" tvg-logo="https://spotlight-cl.cdn.telefonica.com/customer/v1/source?image=http%3A%2F%2Fmedia.cdn.telefonica.com%2Fstoragearea0%2FIMAGES%2F00%2F06%2F38%2F6383311_78D38321059792D4.png&height=60&resize=RATIO&format=PNG" group-title="DEPORTES",ESPN 3 HD
-#KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.license_key={ "keys":[ { "kty":"oct", "k":"E0piombH8SyZGHBHK9bKqg", "kid":"f3sW+4VIU0WEkgDBeO5txA" },{ "kty":"oct", "k":"FE2UtV7Nnc/t/0niCdb+ow", "kid":"PH56/q6eVriN7szAbtdFcw" },{ "kty":"oct", "k":"PQbApCxcCr3AtSnVb7iNQw", "kid":"UsazpgNeX2KFgw/LL5GhQA" } ], "type":"temporary" }
-https://cdn-live.mundogo.cl/espn3/espn3.mpd
-
-
-#EXTINF:-1 tvg-id="1075dtv.cl" tvg-name="ESPN 3 Andina" tvg-logo="https://spotlight-cl.cdn.telefonica.com/customer/v1/source?image=http%3A%2F%2Fmedia.cdn.telefonica.com%2Fstoragearea0%2FIMAGES%2F00%2F18%2F12%2F18120538_C879B6958D9AC767.png&height=60&resize=RATIO&format=PNG" group-title="DEPORTES",ESPN 4 HD
-#KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.license_key={ "keys":[ { "kty":"oct", "k":"1FazyuiKt/2HupBGknthRg", "kid":"PMsKjc70Wkai/CTkv3vqjA" },{ "kty":"oct", "k":"+0r80+bO7sT5PpRAGi4bSg", "kid":"PXi3cmqtVAqgD9COfDRG9Q" },{ "kty":"oct", "k":"2e55A1+R0WZvp8QMAkkT6g", "kid":"nrRTndHSXkuRldhNVEooOw" } ], "type":"temporary" }
-https://cdn-live.mundogo.cl/espn4/espn4.mpd
-
-#EXTINF:-1 tvg-id="3081dtv.cl" tvg-name="" tvg-logo="https://spotlight-cl.cdn.telefonica.com/customer/v1/source?image=http%3A%2F%2Fmedia.cdn.telefonica.com%2Fstoragearea0%2FIMAGES%2F00%2F06%2F57%2F6577079_6A66E5AB224CD2F5.png&height=60&resize=RATIO&format=PNG" group-title="DEPORTES",TYC SPORTS HD
-#KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.license_key={ "keys":[ { "kty":"oct", "k":"MQrvhoM8JmlsH2aCk0Uwzg", "kid":"HGcfIC8DX8aCleKFRA4fBg" },{ "kty":"oct", "k":"rzBjcCC9gGUO96x6V/BUBQ", "kid":"MmnMH/3IVtOdbSesquucVw" },{ "kty":"oct", "k":"qunyrZDV0p20MUWGr5tBTw", "kid":"mMCh+w1CX4i/4cKtCYV1rg" } ], "type":"temporary" }
-https://cdn-live.mundogo.cl/tycsports/tycsports.mpd
 
 
 
